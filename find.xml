@@ -3,25 +3,35 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>scala</mask>
-    <mask>pom.xml\</mask>
-    <mask>*scala</mask>
-    <mask>*.java</mask>
-    <mask>*1</mask>
-    <mask>*.xml</mask>
-    <mask>*.const</mask>
-    <mask>pom.xml</mask>
-    <mask>*.properties</mask>
-    <mask>*.md</mask>
-    <mask>*</mask>
-    <mask>*.conf</mask>
-    <mask>*.sbt</mask>
-    <mask>*.scala</mask>
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.mxm</mask>
+      <mask>*.mx</mask>
+      <mask>*.m</mask>
+      <mask>*.jaa</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properti</mask>
+      <mask>*.propert</mask>
+      <mask>*.proper</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
+    </recentFileMasks>
   </component>
 </application>

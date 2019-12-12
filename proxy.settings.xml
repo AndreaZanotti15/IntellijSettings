@@ -1,0 +1,5 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="proxymi.servizi.gr-u.it" />
+  </component>
+</application>

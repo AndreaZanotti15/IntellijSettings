@@ -1,37 +1,28 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="asda" type="PLAIN_TEXT" />
-      <mapping pattern=".src_project_version" type="PLAIN_TEXT" />
-      <mapping pattern="left" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="pie" type="PLAIN_TEXT" />
-      <mapping pattern="AbstractConfSpec" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="ConfSpec" type="PLAIN_TEXT" />
-      <mapping pattern="right" type="PLAIN_TEXT" />
-      <mapping ext="delta" type="PLAIN_TEXT" />
-      <mapping ext="avro" type="PLAIN_TEXT" />
-      <mapping ext="const" type="PLAIN_TEXT" />
-      <mapping ext="processor" type="PLAIN_TEXT" />
-      <mapping ext="confg" type="PLAIN_TEXT" />
-      <mapping ext="darwin" type="PLAIN_TEXT" />
-      <mapping ext="nar" type="PLAIN_TEXT" />
-      <mapping ext="avsc" type="PLAIN_TEXT" />
-      <mapping ext="dependencies" type="PLAIN_TEXT" />
-      <mapping ext="reportingtask" type="PLAIN_TEXT" />
-      <mapping ext="constants" type="PLAIN_TEXT" />
-      <mapping ext="copnf" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping pattern="m" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="arval_esc_output_create_parquet" type="PLAIN_TEXT" />
+      <mapping pattern="arval_inc_landing_table_fields" type="PLAIN_TEXT" />
+      <mapping pattern="arval_inc_landing_view_fields" type="PLAIN_TEXT" />
+      <mapping pattern="arval_inc_output_insert_overwrite" type="PLAIN_TEXT" />
+      <mapping pattern="arval_esc_landing_create_refused" type="PLAIN_TEXT" />
+      <mapping pattern="AtenaJSON" type="PLAIN_TEXT" />
+      <mapping pattern="arval_inc_ouput_insert" type="PLAIN_TEXT" />
+      <mapping pattern="arval_esc_landing_view" type="PLAIN_TEXT" />
+      <mapping pattern="arval_esc_output_insert" type="PLAIN_TEXT" />
+      <mapping pattern="arval_inc_landing_insert_refused" type="PLAIN_TEXT" />
+      <mapping pattern="arval_esc_landing_table_fields" type="PLAIN_TEXT" />
+      <mapping pattern="arval_inc_output_full_join" type="PLAIN_TEXT" />
+      <mapping pattern="arval_inc_output_create_parquet" type="PLAIN_TEXT" />
+      <mapping pattern="arval_inc_landing_create_refused" type="PLAIN_TEXT" />
+      <mapping pattern="arval_esc_landing_insert_refused" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="keytab" type="PLAIN_TEXT" />
+      <mapping pattern="furti_landing_table_fields" type="SQL" />
+      <mapping pattern="furti_workspace_table_fields" type="SQL" />
+      <mapping pattern="furti_workspace_create_table" type="SQL" />
+      <mapping pattern="fields" type="SQL" />
+      <mapping ext="hql" type="SQL" />
     </extensionMap>
   </component>
 </application>
