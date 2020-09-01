@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="arval_esc_output_create_parquet" type="PLAIN_TEXT" />
       <mapping pattern="arval_inc_landing_table_fields" type="PLAIN_TEXT" />
       <mapping pattern="arval_inc_landing_view_fields" type="PLAIN_TEXT" />
